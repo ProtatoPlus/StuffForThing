@@ -1,0 +1,9 @@
+{
+    "port": 8443,
+    "ssl": false,
+    "title": "Canvas",
+    "prefix": "/go/",
+    "codec": "base64",
+    "blacklist": ["goguardian.com"],
+    "smokeprefix": "/web/"
+} 
